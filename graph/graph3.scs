@@ -1,0 +1,16 @@
+graph -> G3;;
+
+G3 -> rrel_nodes: ..nodes;;
+G3 -> rrel_arcs: ..arcs;;
+
+
+..nodes
+->V1;
+->V2;
+->V3;
+->V4;
+->V5;
+->V6;
+->V7;
+->V8;;
+
